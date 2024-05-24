@@ -2,7 +2,7 @@
 
 This Project is only for the skill testing of the interview of Coalition.
 
-## Autor
+## Author
 
 - name: Jonathan
 - email: kongxm66@gmail.com
