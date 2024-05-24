@@ -1,35 +1,32 @@
 # Next.js + Jest
 
-This example shows how to configure Jest to work with Next.js.
+This Project is only for the skill testing of the interview of Coalition.
 
-This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript. This example also shows how to use Jest with the App Router and React Server Components.
+## Autor
 
-> **Note:** Since tests can be co-located alongside other files inside the App Router, we have placed those tests in `app/` to demonstrate this behavior (which is different than `pages/`). You can still place all tests in `__tests__` if you prefer.
+- name: Jonathan
+- email: kongxm66@gmail.com
 
-## Deploy your own
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-jest&project-name=with-jest&repository-name=with-jest)
-
-## How to Use
-
-Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
-
-In your terminal, run the following command:
+## Installation
 
 ```bash
-npx create-next-app --example with-jest with-jest-app
+npm install
 ```
 
-```bash
-yarn create next-app --example with-jest with-jest-app
-```
+## Development
 
-```bash
-pnpm create next-app --example with-jest with-jest-app
+```
+npm run dev
 ```
 
 ## Running Tests
 
 ```bash
-npm test
+npm run test
+```
+
+## Building
+
+```bash
+npm run build
 ```

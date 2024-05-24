@@ -1,7 +1,9 @@
+import Home from "@/components/Home.component"
+
 export const metadata = {
-  title: "App Router",
-};
+  title: "Tech Care"
+}
 
 export default function Page() {
-  return <h1>App Router</h1>;
+  return <Home />
 }
